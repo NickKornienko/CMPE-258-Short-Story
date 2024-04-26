@@ -7,6 +7,6 @@ Ruiyang Ren, Yifan Li, Xinyu Tang, Zikang Liu, Peiyu Liu, Jian-Yun Nie and Ji-Ro
 
 Medium article link: https://medium.com/@nick.kornienko/a-survey-of-large-language-models-48b8399fb9c6
 
-PPT: 
+PPT: CMPE 258 Short story.pptx
 
 Video presentation link:https://youtu.be/S00XarAOHN4
